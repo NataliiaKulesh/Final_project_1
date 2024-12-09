@@ -10,6 +10,7 @@ class MedicineNameDescriptor:
         __get__(self, instance, owner): Повертає назву ліків.
         __set__(self, instance, value): Перевіряє, чи назва ліків не порожня та відповідає шаблону.
     """
+
     def __get__(self, instance, owner):
         return instance._name
 

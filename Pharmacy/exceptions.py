@@ -5,6 +5,7 @@
 - UserNotRegisteredException: виключення для ситуацій, коли користувач не зареєстрований.
 """
 
+
 class PharmacyException(Exception):
     """Базовий клас для всіх виключень в аптеці."""
     pass
