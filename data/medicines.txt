@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Solpadein",
+        "manufacturer": "Bayer",
+        "price": 255.25
+    }
+]
